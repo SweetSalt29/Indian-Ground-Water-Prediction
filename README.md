@@ -5,6 +5,11 @@ An AI-powered web application for monitoring, analyzing, and predicting groundwa
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?style=flat-square&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![UI-1](https://github.com/user-attachments/assets/165c9342-9ddf-49b1-b03b-b92ef9f66f2f)
+![UI-2](https://github.com/user-attachments/assets/8a477de5-bfa3-4aab-82aa-ab47416928d2)
+![UI-3](https://github.com/user-attachments/assets/3b41d622-25d0-4017-9882-aa331f806b0a)
+![UI-4](https://github.com/user-attachments/assets/02473f81-6a50-48e3-ab4d-78773bb63dda)
+
 
 ## 🚀 Features
 
